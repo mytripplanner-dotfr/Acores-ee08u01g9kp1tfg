@@ -1,0 +1,236 @@
+{
+  "pays": "Portugal",
+  "drapeau": "🇵🇹",
+  "symbole": "🌸",
+  "titre": "Les Açores: Évasion Volcanique et Sérénité Atlantique",
+  "budget_total": "2700 €",
+  "duree": "10 jours",
+  "temps_vol": "10h30 (depuis New York, États-Unis)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée Douce à Ponta Delgada",
+      "legende": "Après un vol transatlantique, la première journée est dédiée à l'acclimatation. Prenez possession de votre véhicule, installez-vous et laissez-vous charmer par l'ambiance paisible de la capitale açorienne, Ponta Delgada.",
+      "lieu": "Ponta Delgada, São Miguel",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport de Ponta Delgada (PDL) et récupération de votre voiture de location.",
+        "<strong>🛏️</strong>: Installation à votre hébergement et moment de détente.",
+        "<strong>🚶‍♂️</strong>: Première balade relaxante dans le centre historique de Ponta Delgada, découverte des Portas da Cidade et du front de mer."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Location de voiture",
+          "texte": "Indispensable pour explorer l'île de São Miguel en toute liberté. Réservez à l'avance pour de meilleurs tarifs."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏞️",
+      "titre": "Merveilles de Sete Cidades et Côte Ouest",
+      "legende": "Explorez les paysages emblématiques de Sete Cidades, avec ses lacs aux couleurs contrastées, puis détendez-vous sur la côte ouest, réputée pour ses piscines naturelles et ses couchers de soleil spectaculaires.",
+      "lieu": "Sete Cidades & Mosteiros, São Miguel",
+      "activites": [
+        "<strong>👀</strong>: Visite des miradouros (points de vue) de Sete Cidades, notamment Vista do Rei et Boca do Inferno (accès facile).",
+        "<strong>🚶‍♀️</strong>: Courte promenade autour des lacs de Sete Cidades, pour s'imprégner de la sérénité du lieu.",
+        "<strong>🌅</strong>: Détente aux piscines naturelles de Mosteiros et observation du coucher de soleil sur l'océan Atlantique."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Légende des lacs",
+          "texte": "Les lacs bleu et vert de Sete Cidades sont liés à une légende romantique d'une princesse et d'un berger."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "♨️",
+      "titre": "Immersion Thermale à Furnas",
+      "legende": "Plongez au cœur de l'activité géothermique de São Miguel dans la vallée de Furnas. Profitez des bienfaits des sources chaudes et découvrez des paysages volcaniques uniques, parfaits pour la relaxation.",
+      "lieu": "Furnas, São Miguel",
+      "activites": [
+        "<strong>🌳</strong>: Baignade et promenade dans le luxuriant Parc Terra Nostra, célèbre pour sa piscine thermale riche en fer.",
+        "<strong>🍲</strong>: Découverte des \"Caldeiras das Furnas\" où le fameux \"Cozido das Furnas\" est cuit sous terre par la chaleur volcanique.",
+        "<strong>♨️</strong>: Relaxation ultime aux piscines de Poça da Dona Beija, des bassins d'eau chaude naturelle en pleine nature."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "⚠️",
+          "titre": "Conseil Baignade",
+          "texte": "Les eaux thermales de Furnas peuvent tacher les maillots de bain clairs en raison de leur teneur en fer. Préférez un maillot foncé."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "☕",
+      "titre": "Douceurs du Nord-Est et Vues Panoramiques",
+      "legende": "Explorez la région verdoyante du Nord-Est, réputée pour ses plantations de thé uniques en Europe et ses points de vue spectaculaires sur la côte. Une journée entre saveurs locales et panoramas à couper le souffle.",
+      "lieu": "Nordeste & Gorreana, São Miguel",
+      "activites": [
+        "<strong>🍵</strong>: Visite de la plantation de thé Gorreana, la plus ancienne d'Europe, avec dégustation et balade dans les champs.",
+        "<strong>🌸</strong>: Promenade dans le charmant village de Porto Formoso et ses environs côtiers.",
+        "<strong>📸</strong>: Admiration des paysages depuis les miradouros du Nordeste, comme le Miradouro da Ponta do Sossego, avec ses jardins fleuris."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🌿",
+          "titre": "Thé des Açores",
+          "texte": "Les Açores sont le seul endroit en Europe où le thé est cultivé à l'échelle industrielle. Ne manquez pas de goûter le thé noir et le thé vert locaux."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🔥",
+      "titre": "Lac de Fogo et Cascades Chaudes",
+      "legende": "Découvrez la beauté sauvage du Lagoa do Fogo, un lac volcanique préservé, puis laissez-vous envelopper par la chaleur des cascades et bassins de Caldeira Velha, un véritable havre de paix naturel.",
+      "lieu": "Lagoa do Fogo & Caldeira Velha, São Miguel",
+      "activites": [
+        "<strong>⛰️</strong>: Admiration du Lagoa do Fogo depuis ses miradouros, offrant des vues imprenables sur ce lac classé réserve naturelle.",
+        "<strong>♨️</strong>: Baignade relaxante dans les piscines naturelles de Caldeira Velha, dont une sous une cascade d'eau chaude.",
+        "<strong>🏘️</strong>: Exploration de Ribeira Grande, une ville côtière animée sur la côte nord, avec son architecture baroque."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "💧",
+          "titre": "Préservation",
+          "texte": "Le Lagoa do Fogo est une zone protégée. Respectez les sentiers et ne laissez aucune trace de votre passage."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🏝️",
+      "titre": "Charme Côtier et Îlot de Vila Franca",
+      "legende": "Passez une journée sur la côte sud, explorant l'îlot volcanique de Vila Franca do Campo, un site naturel unique, et découvrez les charmes de cette ville historique, entre plages et points de vue.",
+      "lieu": "Vila Franca do Campo, São Miguel",
+      "activites": [
+        "<strong>🚤</strong>: Excursion en bateau vers l'îlot de Vila Franca do Campo (selon la saison et la météo), un cratère volcanique inondé idéal pour la baignade et le snorkeling.",
+        "<strong>⛪</strong>: Visite de la Chapelle de Nossa Senhora da Paz, offrant une vue panoramique sur Vila Franca do Campo et l'océan.",
+        "<strong>🏖️</strong>: Détente sur la plage de Praia de Santa Bárbara, l'une des plus belles de l'île."
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "☀️",
+          "titre": "Îlot de Vila Franca",
+          "texte": "L'accès à l'îlot est limité en nombre de visiteurs et souvent ouvert uniquement en été. Vérifiez les horaires et réservez à l'avance."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🐋",
+      "titre": "Rencontre avec les Géants de l'Océan",
+      "legende": "Vivez une expérience inoubliable en partant à la rencontre des baleines et dauphins dans leur habitat naturel. L'après-midi, profitez de l'ambiance de Ponta Delgada pour une exploration plus approfondie.",
+      "lieu": "Ponta Delgada, São Miguel",
+      "activites": [
+        "<strong>🐳</strong>: Excursion d'observation des baleines et dauphins (environ 3 heures), une activité respectueuse de la faune marine.",
+        "<strong>🚶‍♀️</strong>: Flânerie dans les rues de Ponta Delgada, découverte de l'église de São Sebastião et du Convento da Esperança.",
+        "<strong>🛍️</strong>: Temps libre pour le shopping de souvenirs ou pour savourer une glace locale."
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🌊",
+          "titre": "Observation des cétacés",
+          "texte": "Les Açores sont l'un des meilleurs endroits au monde pour observer les cétacés. Plusieurs espèces résidentes et migratrices sont présentes toute l'année."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🍍",
+      "titre": "Saveurs Locales et Artisanat",
+      "legende": "Découvrez les saveurs uniques des Açores en visitant une plantation d'ananas et un atelier de céramique. Une journée dédiée à l'artisanat et aux produits du terroir, pour une immersion culturelle douce.",
+      "lieu": "Ponta Delgada & environs, São Miguel",
+      "activites": [
+        "<strong>🍍</strong>: Visite d'une plantation d'ananas (Fábrica de Ananás dos Açores) pour comprendre leur culture sous serre et déguster le fruit local.",
+        "<strong>🏺</strong>: Découverte de l'artisanat local à la fabrique de céramique Cerâmica Vieira, avec ses motifs traditionnels.",
+        "<strong>💆‍♀️</strong>: Après-midi libre pour se détendre, profiter d'un café en terrasse ou revisiter un lieu coup de cœur."
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Les ananas des Açores et les céramiques de Vieira sont d'excellents souvenirs à rapporter de votre voyage."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "🧘‍♀️",
+      "titre": "Journée Libre et Douceur Açorienne",
+      "legende": "Profitez de cette dernière journée complète pour vous ressourcer. Que ce soit en revisitant un site apprécié, en explorant un nouveau sentier facile, ou simplement en vous relaxant au bord de la mer, laissez-vous porter par la douceur de vivre açorienne.",
+      "lieu": "São Miguel",
+      "activites": [
+        "<strong>🚶‍♂️</strong>: Option 1: Une dernière balade douce le long d'un sentier côtier ou autour d'un petit lac.",
+        "<strong>♨️</strong>: Option 2: Retour à une source chaude favorite pour une ultime session de relaxation.",
+        "<strong>🍽️</strong>: Dîner d'adieu dans un restaurant typique, savourant les spécialités locales."
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Flexibilité",
+          "texte": "Cette journée est flexible. Vous pouvez l'adapter à vos envies du moment, selon votre niveau de fatigue ou vos découvertes précédentes."
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "🛫",
+      "titre": "Départ des Açores",
+      "legende": "Après un séjour ressourçant au cœur de l'Atlantique, il est temps de quitter les Açores. Profitez d'un dernier petit-déjeuner local avant de vous diriger vers l'aéroport pour votre vol retour.",
+      "lieu": "Ponta Delgada, São Miguel",
+      "activites": [
+        "<strong>🥐</strong>: Petit-déjeuner açorien et derniers achats de souvenirs.",
+        "<strong>🚗</strong>: Restitution de la voiture de location à l'aéroport.",
+        "<strong>🛫</strong>: Départ de l'aéroport de Ponta Delgada (PDL)."
+      ],
+      "illustration": "jour10.jpg",
+      "encarts": [
+        {
+          "symbole": "✈️",
+          "titre": "Enregistrement",
+          "texte": "Prévoyez suffisamment de temps pour la restitution du véhicule et l'enregistrement à l'aéroport, surtout en haute saison."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 515 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "~570 €/pers (location voiture + essence)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "~500 €/pers (50€/jour)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "~900 €/pers (100€/nuit pour 9 nuits)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "~180 €/pers (entrées sites, observation baleines)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Octobre", "symbole": "☀️" },
+    { "titre": "Juin à Septembre (pour la baignade)", "symbole": "🏖️" }
+  ],
+  "infos_pratiques": [
+    { "titre": "Les températures aux Açores sont douces toute l'année, mais le temps peut être changeant. Prévoyez des couches de vêtements, un imperméable et de bonnes chaussures de marche.", "symbole": "🌦️" },
+    { "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont largement acceptées, mais il est utile d'avoir un peu de liquide pour les petits commerces ou les marchés.", "symbole": "💳" },
+    { "titre": "Le permis de conduire français est suffisant pour la location de voiture. La conduite se fait à droite. Les routes sont bien entretenues mais peuvent être sinueuses.", "symbole": "🚗" },
+    { "titre": "Le portugais est la langue officielle. L'anglais est parlé dans les zones touristiques. Apprendre quelques mots de portugais sera apprécié.", "symbole": "🗣️" },
+    { "titre": "Le décalage horaire avec l'Europe continentale est de -1 heure. Avec la côte Est des États-Unis (JFK), il est de +4 heures.", "symbole": "⏰" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/JFK-PDL/2026-05-15/2026-05-25", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Açores", "url": "https://www.visitazores.com/fr", "symbole": "📘" },
+    { "legende": "Météo", "titre": "Météo Açores", "url": "https://www.ipma.pt/pt/otempo/previsao/hp/Acores/", "symbole": "🌤️" },
+    { "legende": "Location de voiture", "titre": "Comparateur de location de voiture", "url": "https://www.rentalcars.com/", "symbole": "🚗" }
+  ]
+}
